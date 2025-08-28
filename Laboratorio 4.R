@@ -49,11 +49,13 @@ t.test(calidad$IE ~ calidad$Tratamiento, alternative = "greater", var.equal = T)
 
 #Medir el efecto de tratamiento
 
-cohens_efecto <- function(x, y) {
+cohens_efecto <- function(x,y){
   n1 <- length(x); n2 <- length(y)
   s1 <- sd(x);  s2 <- sd(y)
   sp <- sqrt(((n1 - 1) * s1^2 + (n2 - 1) * s2^2) / (n1 + n2 - 2))
-  (mean (x) - mean(y)) / sp 
+  (mean (x)- mean(y)) / sp 
 }
-
 d_cal <- cohens_efecto(df_ctrl$IE, df_fert$IE)
+d_cal
+
+
