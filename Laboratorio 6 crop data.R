@@ -51,3 +51,10 @@ sqrt((2*0.3859)/32) * qtukey(0.95, nmeans = 3, df = 93)
 
 TukeyHSD(crop.data.aov)
 plot(TukeyHSD(crop.data.aov))
+
+ggplot2(crop, aes(x=yield, y = fertilizer, fill = fertilizer))+
+  geom_violin()+
+  geom_jitter()+
+  #geom_boxplot()+
+  theme_light()
+
