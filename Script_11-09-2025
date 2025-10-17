@@ -1,3 +1,7 @@
+#Maya Tovar
+#Semana 6
+#11/09/2025
+
 data("iris")
 boxplot(iris$Sepal.Length ~ iris$Species)
 
