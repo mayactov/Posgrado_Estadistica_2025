@@ -8,7 +8,7 @@ Material del curso de Posgrado de Experimentación y Métodos Estadísticos en M
 
 La materia “Experimentación y Métodos Estadísticos” está diseñada para proporcionar a los estudiantes herramientas fundamentales para el análisis e interpretación de datos experimentales. A lo largo del curso, se aprende a importar y manipular datos, calcular estadísticos descriptivos, y visualizar la información mediante gráficos como boxplots, barplots y violín. Asimismo, se aplican diversas pruebas estadísticas, incluyendo t-tests, ANOVA, pruebas post-hoc y regresión lineal, así como métodos para evaluar supuestos de normalidad y homocedasticidad.
 
-Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrollar habilidades para diseñar experimentos, comparar tratamientos y tomar decisiones basadas en evidencia estadística.
+El **repositorio en GitHub** es una herramienta útil para almacenar, organizar y compartir los códigos y análisis desarrollados en RStudio. Su **objetivo** es centralizar los archivos del curso “Experimentación y Métodos Estadísticos”, promoviendo el uso de buenas prácticas en programación, documentación y gestión de proyectos estadísticos.
 
 ## OBJETIVOS
 
@@ -41,5 +41,7 @@ Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrol
 **Semana 7** (18/09/2025): Convertir factores, visualizar con boxplot y violín, evaluar normalidad y varianzas, realizar ANOVA y pruebas post-hoc (LSD y Tukey) para comparar tratamientos
 
 **Semana 8** (25/09/2025): Calcular regresión lineal manual y con lm, obtener valores ajustados y residuos, realizar ANOVA y probar homocedasticidad con Breusch-Pagan.
+
+Contribuciones de mayactov en un periodo de 8 semanas
 
 ![Fig. 1 contribuciones de Maya Tovar en un periodo de 2 meses ](mayactovGIT.png)
