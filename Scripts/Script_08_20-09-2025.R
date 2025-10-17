@@ -1,6 +1,6 @@
 #Maya Tovar
 #Semana 7
-#20-09-2025
+#20-09-2025 
 
 #Ejercicio:Comparación de concentraciones de estroncio en cuerpos de agua
 
