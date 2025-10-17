@@ -1,6 +1,6 @@
 # 🔥 Posgrado Estadistica 2025 🔥
 
-Repositorio de Maya C. Tovar Cárdenas
+Repositorio de Maya C. Tovar Cárdenas 😻
 
 Material del curso de Posgrado de Experimentación y Métodos Estadísticos en MCF
 
