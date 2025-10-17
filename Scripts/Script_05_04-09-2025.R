@@ -1,5 +1,5 @@
 #Maya Tovar
-#Semana 4
+#Semana 5
 #04/09/2025
 
 #Media movil para determinar el n ideal con respecto a la poblacion
