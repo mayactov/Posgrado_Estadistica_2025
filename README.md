@@ -1,12 +1,12 @@
-# Posgrado Estadistica 2025 
+# Posgrado Estadistica 2025
+
+Repositorio de Maya C. Tovar Cárdenas
 
 Material del curso de Posgrado de Experimentación y Métodos Estadísticos en MCF
 
 ## INTRODUCCION
 
-La materia “Experimentación y Métodos Estadísticos” está diseñada para proporcionar a los estudiantes herramientas fundamentales para el análisis e interpretación de datos experimentales. 
-A lo largo del curso, se aprende a importar y manipular datos, calcular estadísticos descriptivos, y visualizar la información mediante gráficos como boxplots, barplots y violín. Asimismo, 
-se aplican diversas pruebas estadísticas, incluyendo t-tests, ANOVA, pruebas post-hoc y regresión lineal, así como métodos para evaluar supuestos de normalidad y homocedasticidad. 
+La materia “Experimentación y Métodos Estadísticos” está diseñada para proporcionar a los estudiantes herramientas fundamentales para el análisis e interpretación de datos experimentales. A lo largo del curso, se aprende a importar y manipular datos, calcular estadísticos descriptivos, y visualizar la información mediante gráficos como boxplots, barplots y violín. Asimismo, se aplican diversas pruebas estadísticas, incluyendo t-tests, ANOVA, pruebas post-hoc y regresión lineal, así como métodos para evaluar supuestos de normalidad y homocedasticidad.
 
 Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrollar habilidades para diseñar experimentos, comparar tratamientos y tomar decisiones basadas en evidencia estadística.
 
@@ -24,8 +24,7 @@ Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrol
 
 🧩 Evaluar supuestos estadísticos y calcular tamaños del efecto
 
-
-## Contenido del curso
+## CONTENIDO DEL CURSO
 
 **Semana 1** (07/08/2025): Inicio del curso :fire: + Crear repositorio + Sincronizar nube y computadora + Credenciales Git
 
@@ -43,12 +42,4 @@ Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrol
 
 **Semana 8** (25/09/2025): Calcular regresión lineal manual y con lm, obtener valores ajustados y residuos, realizar ANOVA y probar homocedasticidad con Breusch-Pagan.
 
-
-
 ![contribuciones](mayactovGIT.png)
-
-
-
-
-
-
