@@ -1,5 +1,5 @@
 #Maya Tovar
-#Semana 8
+#Semana 8 
 #25/09/2025
 
 datos <- data.frame(
