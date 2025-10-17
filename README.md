@@ -1,4 +1,4 @@
-# Posgrado Estadistica 2025
+# Posgrado Estadistica 2025 
 
 Material del curso de Posgrado de Experimentación y Métodos Estadísticos en MCF
 
@@ -43,6 +43,8 @@ Esta materia combina teoría y práctica, permitiendo a los estudiantes desarrol
 
 **Semana 8** (25/09/2025): Calcular regresión lineal manual y con lm, obtener valores ajustados y residuos, realizar ANOVA y probar homocedasticidad con Breusch-Pagan.
 
+
+![contribuciones](REPOSITORIO%20MAYA/mayactov%27s%20Additions.png)
 
 
 
