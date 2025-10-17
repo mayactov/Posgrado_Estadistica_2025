@@ -1,5 +1,6 @@
 #Maya Tovar 
-#Semana 7.0
+#Semana 7
+#18/09/2025
 
 crop.data <- read.csv("C:/Repositorio/Posgrado_Estadistica_2025/crop.data.csv")
 View(crop.data)
